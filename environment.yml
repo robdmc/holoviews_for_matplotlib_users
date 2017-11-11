@@ -5,6 +5,7 @@ dependencies:
     - jupyter
     - matplotlib=2.0
     - pandas
+    - scipy
     - pip:
         - bokeh==0.12.10
         - holoviews==1.9.0
